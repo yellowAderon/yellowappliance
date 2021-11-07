@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+
+	<appliance type="oven" power="1000" weight="10" capacity="32" depth="60" height="46" width="60"/>
+	<appliance type="oven" power="1500" weight="12" capacity="33" depth="60" height="46" width="60"/>
+	<appliance type="oven" power="2000" weight="11" capacity="35" depth="60" height="46" width="60"/>    
+      	<appliance type="laptop" os="Windows" memoryRom="8000" systemMemory="1200" cpu="12" display="18"/> 
+      	<appliance type="laptop" os="Windows" memoryRom="4000" systemMemory="1500" cpu="12" display="18"/>
+	<appliance type="laptop" os="Windows" memoryRom="6000" systemMemory="1000" cpu="12" display="18"/>	
+    	<appliance type="refrigerator" power="100" weight="20" freezerCapacity="10" overallCapacity="300" height="200" width="70"/>
+    	<appliance type="refrigerator" power="150" weight="30" freezerCapacity="10" overallCapacity="333" height="150" width="72"/>
+	<appliance type="refrigerator" power="120" weight="40" freezerCapacity="10" overallCapacity="322" height="250" width="75"/>
+       	<appliance type="vacuumCleaner" power="100" filterType="A" bagType="AA" wandType="228" motorSpeed="3333"/>
+	<appliance type="vacuumCleaner" power="99" filterType="A" bagType="AB" wandType="229" motorSpeed="3334"/>
+	<appliance type="vacuumCleaner" power="111" filterType="A" bagType="ABC" wandType="230" motorSpeed="3335"/>
+    	<appliance type="tabletPC" batteryCapacity="3" displayInches="14" memoryRom="8000" flashMemory="2" colour="blue"/>
+	<appliance type="tabletPC" batteryCapacity="4" displayInches="14" memoryRom="8000" flashMemory="2" colour="blue"/>
+	<appliance type="tabletPC" batteryCapacity="5" displayInches="14" memoryRom="8000" flashMemory="2" colour="blue"/>
+    
+</catalog>
